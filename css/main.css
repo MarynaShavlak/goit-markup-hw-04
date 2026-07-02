@@ -1,3 +1,4 @@
+/* Точка входу: імпорт стилів секцій у порядку каскаду */
 @import './common.css';
 @import './header.css';
 @import './hero.css';
